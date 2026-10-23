@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+<style>
+  .t{font-family:ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace;white-space:pre}
+  .l{opacity:0;animation:show .1s forwards}
+  .cur{animation:blink 1s steps(1) infinite}
+  @keyframes show{to{opacity:1}}
+  @keyframes blink{50%{opacity:0}}
+</style>
+<rect x="1" y="1" width="398" height="298" rx="10" fill="#161b22" stroke="#30363d" stroke-width="2"/>
+<path d="M1 11a10 10 0 0 1 10-10h378a10 10 0 0 1 10 10v20H1z" fill="#21262d"/>
+<circle cx="18" cy="16" r="5" fill="#ff5f57"/><circle cx="36" cy="16" r="5" fill="#febc2e"/><circle cx="54" cy="16" r="5" fill="#28c840"/>
+<text class="t" x="200" y="20" fill="#8b949e" font-size="11" text-anchor="middle">~/bayubiantara0</text>
+<text class="t l" style="animation-delay:0.30s" x="18" y="62" font-size="13"><tspan fill="#3fb950">$ </tspan><tspan fill="#e6edf3">cat about.txt</tspan></text><text class="t l" style="animation-delay:0.75s" x="18" y="88" font-size="13"><tspan fill="#c9d1d9">role     : Full Stack Web Developer</tspan></text><text class="t l" style="animation-delay:1.20s" x="18" y="114" font-size="13"><tspan fill="#c9d1d9">backend  : PHP · Laravel · Express</tspan></text><text class="t l" style="animation-delay:1.65s" x="18" y="140" font-size="13"><tspan fill="#c9d1d9">frontend : React · TypeScript · Tailwind</tspan></text><text class="t l" style="animation-delay:2.10s" x="18" y="166" font-size="13"><tspan fill="#c9d1d9">mobile   : Flutter · Dart</tspan></text><text class="t l" style="animation-delay:2.55s" x="18" y="192" font-size="13"><tspan fill="#c9d1d9">database : MySQL · PostgreSQL</tspan></text><text class="t l" style="animation-delay:3.00s" x="18" y="218" font-size="13"><tspan fill="#3fb950">$ </tspan><tspan fill="#e6edf3">git commit -m &quot;ship it 🚀&quot;</tspan></text><text class="t l" style="animation-delay:3.45s" x="18" y="244" font-size="13"><tspan fill="#58a6ff">[main 7b1d2e] ship it 🚀</tspan></text>
+<text class="t l" style="animation-delay:3.90s" x="18" y="270" font-size="13" fill="#3fb950">$ <tspan class="cur" fill="#e6edf3">▍</tspan></text>
+</svg>
