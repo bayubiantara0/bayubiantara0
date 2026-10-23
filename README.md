@@ -37,8 +37,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=bayubiantara0&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=00000000&hide_title=true" />
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=bayubiantara0&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=00000000&hide_title=true" alt="GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=bayubiantara0&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=00000000&hide_title=true" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=bayubiantara0&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&hide_title=true" alt="GitHub stats" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bayubiantara0&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=00000000&hide_title=true" />
